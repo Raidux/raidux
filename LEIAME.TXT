@@ -1,0 +1,17 @@
+ppkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install tesseract -y && pkg install python -y && npm i -g npm@6 && pkg install figlet 
+cola tudo não deixa nada
+
+
+2 comando
+termux-setup-storage 
+
+e permitir 
+
+3 comando cd /sdcard/download/BASE-BOT
+caso não for 
+cd /sdcard/BASE-BOT
+
+esse comando é para inicialização
+do bot e gerar qr code 
+
+sh start.sh
